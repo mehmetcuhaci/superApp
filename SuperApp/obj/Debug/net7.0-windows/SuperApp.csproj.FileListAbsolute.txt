@@ -26,3 +26,4 @@ C:\Users\mehme\Desktop\SuperApp\SuperApp\obj\Debug\net7.0-windows\SuperApp.cspro
 C:\Users\mehme\Desktop\SuperApp\SuperApp\obj\Debug\net7.0-windows\SuperApp.KayitFormu.resources
 C:\Users\mehme\Desktop\SuperApp\SuperApp\obj\Debug\net7.0-windows\SuperApp.LoginFormu.resources
 C:\Users\mehme\Desktop\SuperApp\SuperApp\obj\Debug\net7.0-windows\SuperApp.FeedForm.resources
+C:\Users\mehme\Desktop\SuperApp\SuperApp\obj\Debug\net7.0-windows\SuperApp.sourcelink.json
